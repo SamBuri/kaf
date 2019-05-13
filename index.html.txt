@@ -4,5 +4,7 @@
 </head>
 <body>
 	Bogere
+	Sam Nturanabo
+	Ategeka
 </body>
 </html>
